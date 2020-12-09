@@ -9,5 +9,5 @@ Example scripts for common analyses. We're starting this directory to keep track
 - ADMIXTURE v1.3.0 https://dalexander.github.io/admixture/download.html
 - R v3.6.1 https://www.r-project.org/
 
-## Markdowns within this directory:
+## Summaries/walkthroughs within this directory:
 - [Prep1000G_MalariaProject_summary.md](./Prep1000G_MalariaProject_summary.md) written Oct 2020 to assist with looking at possible selection at malaria-interacting loci in 1000G admixed populations. contains some guidance basic PLINK commands and PCA/ADMIXTURE.
