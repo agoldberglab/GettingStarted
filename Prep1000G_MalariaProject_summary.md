@@ -1,4 +1,4 @@
-### Written Oct 2020 to assist with looking as possible selection at malaria-interacting loci in 1000G admixed populations
+### Written Oct 2020 to assist with looking at possible selection at malaria-interacting loci in 1000G admixed populations
 
 **Summary of where we are and what we’re doing next. (Shae, you’ve already done steps 1-4).**
 1. Download 1000G files
