@@ -4,6 +4,9 @@ Example scripts for common analyses. We're starting this directory to keep track
 ## Duke Compute Cluster quick start
 DCC user guide (lots of useful info here on how to get started): https://rc.duke.edu/dcc/dcc-user-guide/
 
+Getting an account:
+- Here is the self service portal where a lab point-of-contact can add or manage DCC users: Research Toolkits (https://rtoolkits.web.duke.edu).
+
 To SHH onto the DCC: 
 - ssh netid@dcc-login.oit.duke.edu
 - Multifactor authentication is now required for all logins, on and off campus.  
