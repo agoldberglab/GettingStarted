@@ -14,6 +14,8 @@ Important directories:
 - /work  --Use this as a temporary location for active analyses. This is ~500TB of unpartitioned space shared across all DCC users. This space is not backed up and files in /work are automatically deleted after 75 days.
 - /hpc/group/goldberg --This is our lab directory, with 1TB of storage and 7 days of backups
 - /datacommons/goldberg --This is our lab directory for archival storage. Use this for storing important (not intermediate or temporary) files and scripts. This Datacommons directory is mounted to the cluster for easy access, but read/write won’t be as fast compared to /work or /hpc directories
+
+
 IMPORTANT NOTES:
 - Raw data and scripts should always be saved to a secondary safe location, outside of the cluster.
 - A good practice is to keep all scripts in an hpc/ or datacommons/ directory, and run all analyses in work/. By keeping active analyses and large intermediate files in work/, we prevent overflowing lab storage and interrupting each others’ jobs. Just remember to always keep a copy of raw data and the scripts needed to generate downstream files and output in a backed-up location.
