@@ -1,5 +1,5 @@
 # Getting Started
-Example scripts for common analyses. We're starting this directory to keep track of example scripts we've made for Goldberg Lab undergraduate researchers, but please feel free to contribute anything that might be useful to future lab members.
+Example scripts for common analyses. We're starting this directory to keep track of example scripts we've made for new Goldberg Lab members-- please feel free to contribute anything that might be useful to future lab members.
 
 ## Public datasets:
 - 1000 Genomes resequencing data can be accessed here: https://www.internationalgenome.org/data-portal/data-collection/30x-grch38 
