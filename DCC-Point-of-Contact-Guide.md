@@ -18,11 +18,15 @@ IMPORTANT NOTES ON DATACOMMONS STORAGE:
 - Storage capacity can be increased at any time-- the current cost associated is $80 per TB per year. This cost is based on the allocation, not on the amount actually used. To increase/decrease storage email rescomputing@duke.edu.
 - This storage is not backed up-- lab members should always keep backups of important data and scripts in a secondary location not on the cluster.
 
-## Globus
-For large data transfers Duke Globus subscription can be used: https://oit.duke.edu/help/articles/kb0032536 
-- This is a non-profit data management service run by the University of Chicago. See the link above for instructions, and note that some transfers may require permissions help from Research Computing (e.g., we needed Research Computing to allow CSHL write permissions to transfer the howler data).
-
 ## Computing Node
 We have our own priority node on the DCC:
 - Partition is "goldberg"
 - NodeName=dcc-goldberg-01 CPUs=92 Realmemory=738430
+
+## Guest Accounts and Account Extension
+- If needed, guest accounts can be requested here: https://oit.duke.edu/what-we-do/applications/sponsored-accounts (e.g., we currently (Jan 2022) maintain a guest account for our collaborator Patricia Freitas).
+- The same link can be used to request extended access for lab members who are leaving Duke.
+
+## Globus
+For large data transfers Duke Globus subscription can be used: https://oit.duke.edu/help/articles/kb0032536 
+- This is a non-profit data management service run by the University of Chicago. See the link above for instructions, and note that some transfers may require permissions help from Research Computing (e.g., we needed Research Computing to allow CSHL write permissions to transfer the howler data).
