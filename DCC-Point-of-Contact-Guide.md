@@ -1,6 +1,7 @@
 # DCC Point-of-Contact Guide
-
 These notes are intended for the lab point-of-contact for the DCC. See below for notes on managing users, storage, etc.
+
+Originally put together by Katharine Korunes (kkorunes@gmail.com) on 14 January 2022.
 
 ## Managing user access:
 Here is the Research Toolkits self service portal for adding or managing DCC users: https://rtoolkits.web.duke.edu
