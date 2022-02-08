@@ -2,7 +2,7 @@
 Example scripts for common analyses. We're starting this directory to keep track of example scripts we've made for new Goldberg Lab members-- please feel free to contribute anything that might be useful to future lab members.
 
 ## Duke Compute Cluster quick start
-DCC user guide (lots of useful info here on how to get started): https://rc.duke.edu/dcc/dcc-user-guide/
+DCC user guide (lots of useful info here on how to get started): https://oit-rc.pages.oit.duke.edu/rcsupportdocs/ 
 
 Getting an account:
 - Here is the self service portal where a lab point-of-contact can add or manage DCC users: Research Toolkits (https://rtoolkits.web.duke.edu).
