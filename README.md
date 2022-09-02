@@ -28,6 +28,7 @@ IMPORTANT NOTES:
 - [ADMIXTURE_allele-freq_combined.pdf](./ADMIXTURE_allele-freq_combined.pdf) written Oct 2020. Example walk-through for plotting ADMIXTURE results in R and comparing observed to expected allele frequencies.
 - [Intro to Unix_Cluster Computing.pdf](./Intro%20to%20Unix_Cluster%20Computing.pdf) written Aug 2020. Notes for introduction to Unix/Terminal and the Duke Compute Cluster architecture.
 - [SLiM_jobarray_example.pdf](./SLiM_jobarray_example.pdf) written March 2021. Notes on how to use job arrays to run and keep track of many SLiM simulations on the cluster.
+- [JupyterNotebook_DCC_Container.pdf](./JupyterNotebook_DCC_Container.pdf) written Sept 2021. Notes on building Singularity image for software containerization & for running Jupyter Notebook on the DCC cluster from a local browser (can be extended to running Rstudio).
 
 ## Public datasets:
 - 1000 Genomes resequencing data can be accessed here: https://www.internationalgenome.org/data-portal/data-collection/30x-grch38 
